@@ -1,1 +1,7 @@
- # exercise
+// exercise
+
+
+$(function(){
+    
+
+})
